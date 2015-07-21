@@ -25,6 +25,10 @@ h1 {
   float: left;
 }
 
+.content {
+  border: 1px solid black;
+}
+
 #right {
   /* デバッグ
    * background: red;
